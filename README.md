@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 🧠 I'm great at problem-solving using JavaScript/TypeScript (Node.js, React, webpack) & Python (Django).
 
