@@ -1,8 +1,8 @@
-### Hey! 👋
+Hello world 👋
 
-🧠 I'm great at problem-solving using JavaScript/TypeScript (Node.js, React, webpack) & Python (Django).
+<!-- 🧠 I'm great at problem-solving using JavaScript/TypeScript (Node.js, React, webpack) & Python (Django).
 
-📚 I'm currently studying 日本語…塵も積もれば山となる。
+📚 I'm currently studying 日本語…塵も積もれば山となる。 -->
 
 <!--
 **aztechdev/aztechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
